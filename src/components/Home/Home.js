@@ -10,7 +10,7 @@ const Home = () => {
             <p className='text-color-'> Welcome to my personal website! I built this site using React to host my online project portfolio, share some of my personal thoughts in a blog, and provide a centralized resource for all of my relevant links. If you are interested in reaching out, I am always happy to chat about projects, career and other professional opportunities, or just about myself! </p>
             </div>
             <div className='col-4'>
-                <img className='mw-100' src='https://media.licdn.com/dms/image/D4E03AQFskYfRhhPX-g/profile-displayphoto-shrink_800_800/0/1672707916909?e=2147483647&v=beta&t=Ib0-uWz7o82vgC6Vf7tYV6Lc8KPo1VhSFtE0hOpttas'></img>
+                <img className='mw-100' src='https://media.licdn.com/dms/image/D4E03AQFskYfRhhPX-g/profile-displayphoto-shrink_800_800/0/1672707916909?e=2147483647&v=beta&t=Ib0-uWz7o82vgC6Vf7tYV6Lc8KPo1VhSFtE0hOpttas' alt='This should be what I look like :)'></img>
             </div>
             </div>
         </div>

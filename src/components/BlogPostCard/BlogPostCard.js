@@ -3,8 +3,8 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import { CardActionArea } from '@mui/material';
 import Box from '@mui/material/Box';
-import CardMedia from '@mui/material/CardMedia';
-import Button from '@mui/material/Button';
+//import CardMedia from '@mui/material/CardMedia';
+//import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 
 const BlogPostCard = (post) => {
@@ -23,7 +23,7 @@ const BlogPostCard = (post) => {
                 </CardContent>
             </Box>
             <Box sc={{display: 'flex', flexDirection: 'column'}}>
-                <img src={post.imgSource}></img>
+                <img src={post.imgSource} alt='img not available'></img>
             </Box>
             </CardActionArea>   
         </Card>

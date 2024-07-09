@@ -1,5 +1,4 @@
-import React, { FC } from 'react';
-import styles from './Bio.module.css';
+import React from 'react';
 import bio from './bio.json';
 
 const Bio = () => {

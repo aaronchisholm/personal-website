@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './Projects.module.css';
 import ProjectView from '../ProjectView/ProjectView';
 import ProjectList from '../ProjectList/ProjectList';
 import { Box } from '@mui/material';

@@ -1,4 +1,3 @@
-import styles from './NavBar.module.css';
 import { useLocation } from 'react-router';
 import { Link } from 'react-router-dom';
 import Contact from '../Contact/Contact';
