@@ -1,7 +1,6 @@
-import styles from './Blog.module.css';
-import React, { useEffect, useState} from 'react';
+import React from 'react';
 import BlogPostCard from '../BlogPostCard/BlogPostCard';
-import findBlogPosts from '../../services/blog/blog-service';
+//import findBlogPosts from '../../services/blog/blog-service';
 
 const Blog= ({posts = []}) => {
 
